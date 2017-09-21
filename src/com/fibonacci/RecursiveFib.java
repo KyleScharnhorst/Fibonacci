@@ -1,6 +1,6 @@
 package com.fibonacci;
 
-public class RecursiveFib {
+public final class RecursiveFib {
     private RecursiveFib(){}
 
     public static int getFibElement(int k) {
