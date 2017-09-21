@@ -1,6 +1,7 @@
 package com.fibonacci;
 
 public class RecursiveFib {
+    private RecursiveFib(){}
 
     public static int getFibElement(int k) {
         if (k == 0) { return 0; }
