@@ -6,7 +6,7 @@ public class Main {
         long before;
         long after;
         long avg;
-        //        DynamicFib df = new DynamicFib();
+
         System.out.println("Dynamic fib result: " + DynamicFib.getFibElement(0));
         System.out.println("Dynamic fib result: " + DynamicFib.getFibElement(1));
         System.out.println("Dynamic fib result: " + DynamicFib.getFibElement(2));
