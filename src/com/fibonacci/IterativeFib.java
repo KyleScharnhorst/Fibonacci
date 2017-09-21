@@ -1,7 +1,7 @@
 package com.fibonacci;
 
-public final class DynamicFib {
-    private DynamicFib(){}
+public final class IterativeFib {
+    private IterativeFib(){}
 
     public static int getFibElement(int k) {
         if(k == 0) { return 0; }
